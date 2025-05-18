@@ -1,0 +1,1 @@
+CREATE TABLE users_copy (LIKE users INCLUDING ALL);
